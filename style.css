@@ -57,7 +57,7 @@ a{
 /* header Start */
 header{
     height: 100vh;
-    background: url('./img/home_bg.jpeg') center center/cover no-repeat;
+    background: url('home_bg.jpeg') center center/cover no-repeat;
     position: relative;
 }
 
@@ -196,7 +196,7 @@ header *{
     height:85vh;
     display: flex;
     justify-content: center;
-    background: url('./img/offer-background.jpg') center center/cover fixed;
+    background: url('offer-background.jpg') center center/cover fixed;
 }
 
 #offers h2{
@@ -299,7 +299,7 @@ header *{
 /* <!-- Dalytime Start --> */
 
 #dalytime{
-    background: url(./img/daytime_bg.jpeg) center center/cover fixed no-repeat;
+    background: url('daytime_bg.jpeg') center center/cover fixed no-repeat;
     color: white;
     text-align: center;
 
@@ -326,7 +326,7 @@ header *{
 /* Gallery Start */
 
 #gallery{
-    background: url(./img/offer-background.jpg) center center/cover fixed;
+    background: url('offer-background.jpg') center center/cover fixed;
     padding: 8rem 0 6rem;
 }
 #gallery h2{
